@@ -399,6 +399,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Avant.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -413,6 +414,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Copy_of_Avt.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -427,6 +429,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Vorher.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -490,46 +493,6 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_4zJAKW": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dYGQqH": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_id9d6d": {
-          "type": "heading",
-          "settings": {
-            "text": "Von Tausenden Frauen bereits getestet – und geliebt",
-            "heading_tag": "h5",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_KwV3D3": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>DFDFD</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dYGQqH",
-        "heading_id9d6d",
-        "richtext_KwV3D3"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_bc3HcP": {
       "type": "custom-liquid",
       "settings": {
@@ -537,18 +500,6 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_9UAwtp": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -628,6 +579,7 @@
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -1231,9 +1183,7 @@
     "image-with-text-overlay",
     "featured-collection",
     "collection-list",
-    "rich_text_4zJAKW",
     "custom_liquid_bc3HcP",
-    "custom_liquid_9UAwtp",
     "image-link-blocks",
     "before-after-image",
     "custom_liquid_LJg4YF",
