@@ -101,7 +101,7 @@
           "type": "heading",
           "settings": {
             "text": "Eingewachsene Haare, Reizungen, Rötungen?    Damit ist jetzt Schluss!",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -109,7 +109,7 @@
         "richtext_eLRkD8": {
           "type": "richtext",
           "settings": {
-            "content": "<h4>Entdecken Sie den neuen 2-in-1-Rasierer für eine glatte und gesunde Haut.</h4><p><strong>Die vorteille :</strong></p>"
+            "content": "<h5>Entdecken Sie den neuen 2-in-1-Rasierer für eine glatte und gesunde Haut.</h5><p><strong>Die vorteille :</strong></p>"
           }
         }
       },
