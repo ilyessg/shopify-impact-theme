@@ -87,13 +87,54 @@
         "text_gradient": ""
       }
     },
+    "rich_text_cDzjtY": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_wPtJFY": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_mawfaT": {
+          "type": "heading",
+          "settings": {
+            "text": "Eingewachsene Haare, Reizungen, Rötungen?    Damit ist jetzt Schluss!",
+            "heading_tag": "h0",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_eLRkD8": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>hjbjhbjh</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_wPtJFY",
+        "heading_mawfaT",
+        "richtext_eLRkD8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
         "1664424181b38582d5-0": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "title": "100%",
+            "title": "Eingewachsene Haare, Reizungen, Rötungen?    Damit ist jetzt Schluss!",
             "subheading": "Showcase a benefit of your product",
             "content": "",
             "button_text": "",
@@ -124,7 +165,6 @@
     },
     "custom_liquid_Yemmwc": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -933,6 +973,7 @@
   "order": [
     "slideshow",
     "scrolling-text",
+    "rich_text_cDzjtY",
     "impact-text",
     "custom_liquid_Yemmwc",
     "image-with-text-overlay",
