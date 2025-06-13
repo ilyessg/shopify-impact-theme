@@ -92,6 +92,7 @@
       "blocks": {
         "subheading_wPtJFY": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -100,7 +101,7 @@
           "type": "heading",
           "settings": {
             "text": "Eingewachsene Haare, Reizungen, Rötungen?    Damit ist jetzt Schluss!",
-            "heading_tag": "h0",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
@@ -108,7 +109,7 @@
         "richtext_eLRkD8": {
           "type": "richtext",
           "settings": {
-            "content": "<p>hjbjhbjh</p>"
+            "content": "<h4>Entdecken Sie den neuen 2-in-1-Rasierer für eine glatte und gesunde Haut.</h4><p><strong>Die vorteille</strong></p>"
           }
         }
       },
@@ -117,7 +118,6 @@
         "heading_mawfaT",
         "richtext_eLRkD8"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
