@@ -306,12 +306,14 @@
       "blocks": {
         "1664424230c4756b0e-0": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Image with text overlay",
             "heading_tag": "h1"
@@ -319,6 +321,7 @@
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
@@ -334,6 +337,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Rasage_Precis_Doux_Reduit_les_rougeurs_poils_incarnes_et_demangeaisons_apres_le_rasage_45db4b18-f9b9-4fe7-882d-a62d976c246d.png",
+        "mobile_image": "shopify://shop_images/Rasage_Precis_Doux_Reduit_les_rougeurs_poils_incarnes_et_demangeaisons_apres_le_rasage_45db4b18-f9b9-4fe7-882d-a62d976c246d.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -569,7 +574,7 @@
         "hot_spot_dot_text_color": "#000000",
         "hot_spot_content_background": "#ffffff",
         "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
+        "hot_spot_content_opacity": 38,
         "hot_spot_content_blur_radius": 3
       }
     },
