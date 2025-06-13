@@ -344,24 +344,54 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_4zJAKW": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_dYGQqH": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_id9d6d": {
+          "type": "heading",
+          "settings": {
+            "text": "Von Tausenden Frauen bereits getestet – und geliebt",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_KwV3D3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dYGQqH",
+        "heading_id9d6d",
+        "richtext_KwV3D3"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
+            "image": "shopify://shop_images/Copy_of_Avt.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -374,6 +404,20 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avant.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Vorher.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -410,8 +454,8 @@
       },
       "block_order": [
         "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
         "1664424046b00c932c-2",
+        "1664424046b00c932c-1",
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
@@ -808,6 +852,19 @@
         "input_text_color": ""
       }
     },
+    "custom_html_ywpmgM": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "feature-chart": {
       "type": "feature-chart",
       "blocks": {
@@ -898,6 +955,7 @@
         "16644246508f6fa13a-1",
         "16644246508f6fa13a-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Compare",
@@ -986,6 +1044,7 @@
     "image-with-text-overlay",
     "featured-collection",
     "collection-list",
+    "rich_text_4zJAKW",
     "image-link-blocks",
     "before-after-image",
     "media-grid",
@@ -993,6 +1052,7 @@
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
+    "custom_html_ywpmgM",
     "feature-chart",
     "faq"
   ]

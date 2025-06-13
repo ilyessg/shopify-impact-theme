@@ -17,13 +17,13 @@
         "free-shipping": {
           "type": "item",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-truck",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
             "icon_background": "#e9bddc",
             "icon_color": "#1a1a1a",
-            "title": "Free shipping",
+            "title": "Kostenloser Versand",
             "content": "<p>Tell your customers about your shipping offer.</p>"
           }
         },
