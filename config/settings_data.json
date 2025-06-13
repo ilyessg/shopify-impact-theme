@@ -19,7 +19,7 @@
     "text_color": "#1a1a1a",
     "header_background": "#f0f0f0",
     "header_text_color": "#1a1a1a",
-    "footer_background": "#ffffff",
+    "footer_background": "#e9bddc",
     "footer_text_color": "#1a1a1a",
     "primary_button_background": "#1a1a1a",
     "primary_button_text_color": "#ffffff",
@@ -36,7 +36,8 @@
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
-    "checkout_button_color": "#1a1a1a"
+    "checkout_button_color": "#1a1a1a",
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
