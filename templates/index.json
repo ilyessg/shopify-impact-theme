@@ -126,6 +126,7 @@
       "blocks": {
         "item_bkVaCW": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "horizontal_position": 24,
             "vertical_position": 70,
@@ -138,6 +139,7 @@
         },
         "item_pbGeYJ": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "horizontal_position": 62,
             "vertical_position": 14,
@@ -150,6 +152,7 @@
         },
         "item_Rymitp": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "horizontal_position": 83,
             "vertical_position": 75,
@@ -179,7 +182,7 @@
         "image_background": "",
         "image_background_gradient": "",
         "overlay_color": "#000000",
-        "overlay_opacity": 16,
+        "overlay_opacity": 20,
         "overlay_text_color": "#ffffff",
         "overlay_button_background": "",
         "overlay_button_text_color": "",
