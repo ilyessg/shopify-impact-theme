@@ -87,6 +87,40 @@
         "background_gradient": ""
       }
     },
+    "rich_text_xg4FTy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YiYJb7": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Wie gesehen in:",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_A8KGEY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h4><strong>Wie gesehen in:</strong></h4>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YiYJb7",
+        "richtext_A8KGEY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "hot_spots_eznnn8": {
       "type": "hot-spots",
       "blocks": {
@@ -145,7 +179,7 @@
         "image_background": "",
         "image_background_gradient": "",
         "overlay_color": "#000000",
-        "overlay_opacity": 0,
+        "overlay_opacity": 16,
         "overlay_text_color": "#ffffff",
         "overlay_button_background": "",
         "overlay_button_text_color": "",
@@ -153,12 +187,13 @@
         "hot_spot_dot_text_color": "#000000",
         "hot_spot_content_background": "#ffffff",
         "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
+        "hot_spot_content_opacity": 100,
         "hot_spot_content_blur_radius": 2
       }
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Vogue",
@@ -191,16 +226,39 @@
             "gradient": ""
           }
         },
+        "richtext_zypnRK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Entdecken Sie den neuen 2-in-1-Rasierer für eine glatte und gesunde Haut.</p>"
+          }
+        },
+        "richtext_YwfgT4": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<h6>Entdecken Sie den neuen 2-in-1-Rasierer für eine glatte und gesunde Haut.</h6>"
+          }
+        },
+        "subheading_8AWTLp": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
         "richtext_eLRkD8": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Entdecken Sie den neuen 2-in-1-Rasierer für eine glatte und gesunde Haut.</h5><p><strong>Die vorteille :</strong></p>"
+            "content": "<h5></h5><p><strong>Die vorteille :</strong></p>"
           }
         }
       },
       "block_order": [
         "subheading_wPtJFY",
         "heading_mawfaT",
+        "richtext_zypnRK",
+        "richtext_YwfgT4",
+        "subheading_8AWTLp",
         "richtext_eLRkD8"
       ],
       "settings": {
@@ -767,6 +825,7 @@
       "blocks": {
         "1664424434f5b7d0e0-0": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "horizontal_position": 24,
             "vertical_position": 70,
@@ -779,6 +838,7 @@
         },
         "1664424434f5b7d0e0-1": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "horizontal_position": 62,
             "vertical_position": 14,
@@ -791,6 +851,7 @@
         },
         "1664424434f5b7d0e0-2": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "horizontal_position": 83,
             "vertical_position": 75,
@@ -809,6 +870,7 @@
       ],
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/5_13_2_1_137bc23e-2b99-4b58-80d3-63af47350640.gif",
         "title": "",
         "content": "",
         "button_text": "",
@@ -825,8 +887,8 @@
         "hot_spot_dot_text_color": "#000000",
         "hot_spot_content_background": "#ffffff",
         "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
+        "hot_spot_content_opacity": 20,
+        "hot_spot_content_blur_radius": 0
       }
     },
     "multiple-images-with-text": {
@@ -1157,6 +1219,7 @@
   "order": [
     "slideshow",
     "slideshow_wXyJgh",
+    "rich_text_xg4FTy",
     "hot_spots_eznnn8",
     "scrolling-text",
     "rich_text_cDzjtY",
