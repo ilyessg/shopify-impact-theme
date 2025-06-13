@@ -122,6 +122,19 @@
         "button_text_color": ""
       }
     },
+    "custom_liquid_Yemmwc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -921,6 +934,7 @@
     "slideshow",
     "scrolling-text",
     "impact-text",
+    "custom_liquid_Yemmwc",
     "image-with-text-overlay",
     "featured-collection",
     "collection-list",
