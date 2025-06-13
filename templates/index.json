@@ -72,15 +72,100 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "slideshow_wXyJgh": {
+      "type": "slideshow",
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "hot_spots_eznnn8": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_bkVaCW": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 24,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 24,
+            "vertical_position_mobile": 70,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "item_pbGeYJ": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "item_Rymitp": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 83,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 83,
+            "vertical_position_mobile": 75,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_bkVaCW",
+        "item_pbGeYJ",
+        "item_Rymitp"
+      ],
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/1711537049-Untitled_design_13.png",
+        "mobile_image": "shopify://shop_images/1711537049-Untitled_design_13.png",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 2
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
+        "text": "Vogue",
+        "text_size": "medium",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 8,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -375,7 +460,6 @@
         "heading_id9d6d",
         "richtext_KwV3D3"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -387,7 +471,6 @@
     },
     "custom_liquid_bc3HcP": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -400,7 +483,6 @@
     },
     "custom_liquid_9UAwtp": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -524,7 +606,6 @@
     },
     "custom_liquid_LJg4YF": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -893,7 +974,6 @@
     },
     "custom_html_ywpmgM": {
       "type": "custom-html",
-      "name": "Custom HTML",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": true,
@@ -1076,6 +1156,8 @@
   },
   "order": [
     "slideshow",
+    "slideshow_wXyJgh",
+    "hot_spots_eznnn8",
     "scrolling-text",
     "rich_text_cDzjtY",
     "impact-text",
