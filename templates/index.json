@@ -358,7 +358,7 @@
           "type": "heading",
           "settings": {
             "text": "Von Tausenden Frauen bereits getestet – und geliebt",
-            "heading_tag": "h1",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
@@ -366,7 +366,7 @@
         "richtext_KwV3D3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>DFDFD</p>"
           }
         }
       },
@@ -380,6 +380,32 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_bc3HcP": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_9UAwtp": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -494,6 +520,19 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
+      }
+    },
+    "custom_liquid_LJg4YF": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media-grid": {
@@ -1045,8 +1084,11 @@
     "featured-collection",
     "collection-list",
     "rich_text_4zJAKW",
+    "custom_liquid_bc3HcP",
+    "custom_liquid_9UAwtp",
     "image-link-blocks",
     "before-after-image",
+    "custom_liquid_LJg4YF",
     "media-grid",
     "press",
     "hot-spots",
