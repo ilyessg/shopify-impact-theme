@@ -504,9 +504,8 @@
         },
         "richtext_MpDUfD": {
           "type": "richtext",
-          "disabled": true,
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<ul><li>Intensive Feuchtigkeit und ein strahlender Glow – für deine schönste Sommerhaut</li></ul>"
           }
         }
       },
