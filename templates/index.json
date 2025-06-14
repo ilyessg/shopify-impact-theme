@@ -946,6 +946,24 @@
             "id": ""
           }
         },
+        "countdown_timer_essential_app_block_qxCjBw": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
+        "countdown_timer_essential_app_block_JUJHRA": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
+        "liquid_zPBFYV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cmbvgde6q0031ee5klqd9urcm\"></div>"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -977,6 +995,9 @@
         "countdown_timer_essential_app_block_DBh6BJ",
         "countdown_timer_essential_app_block_YXU74f",
         "countdown_timer_essential_app_block_Dh9N7U",
+        "countdown_timer_essential_app_block_qxCjBw",
+        "countdown_timer_essential_app_block_JUJHRA",
+        "liquid_zPBFYV",
         "buy-buttons",
         "liquid_GzLHhL"
       ],
