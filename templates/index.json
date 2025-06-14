@@ -490,6 +490,40 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_xtFTAb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mKDT3W": {
+          "type": "heading",
+          "settings": {
+            "text": "✨ Bereit für sonnige Tage? Gönn deiner Haut das Beste.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_MpDUfD": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mKDT3W",
+        "richtext_MpDUfD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_bc3HcP": {
       "type": "custom-liquid",
       "settings": {
@@ -613,14 +647,6 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
-      }
-    },
-    "media_with_text_GMUkD3": {
-      "type": "media-with-text",
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
       }
     },
     "custom_liquid_LJg4YF": {
@@ -1255,10 +1281,10 @@
     "image-with-text-overlay",
     "featured-collection",
     "collection-list",
+    "rich_text_xtFTAb",
     "custom_liquid_bc3HcP",
     "image-link-blocks",
     "before-after-image",
-    "media_with_text_GMUkD3",
     "custom_liquid_LJg4YF",
     "media-grid",
     "press",
