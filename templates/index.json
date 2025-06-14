@@ -958,18 +958,25 @@
             "id": ""
           }
         },
-        "text_EeaXRf": {
+        "text_Y4BdcT": {
           "type": "text",
           "settings": {
-            "text": "<h4>\"Heute gratis: Peeling-Handschuh\"</h4>"
+            "text": "<h6><strong>LIMITIERT</strong></h6><p>– Entfernt Haare <strong>schmerzfrei</strong> an der Wurzel</p><p>– Beugt <strong>eingewachsenen Haaren</strong> und <strong>Hautreizungen</strong> vor</p><p>– Glättet und pflegt die Haut mit dem <strong>Peeling-Handschuh</strong> – ideal vor jeder Rasur</p><p><br/></p><p>Warten Sie nicht, bis sich der Zustand Ihrer Haut <strong>verschlechtert</strong>.</p><p><strong>Handeln Sie jetzt.</strong></p>"
           }
         },
         "image_c7qWNx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_Avt_1.png",
+            "image": "shopify://shop_images/Copy_of_Avt_3.png",
             "alignment": "center",
-            "max_width": 150
+            "max_width": 160
+          }
+        },
+        "text_EeaXRf": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h5> \"Heute gratis: Peeling-Handschuh🎁\"</h5>"
           }
         },
         "liquid_zPBFYV": {
@@ -1011,8 +1018,9 @@
         "countdown_timer_essential_app_block_Dh9N7U",
         "countdown_timer_essential_app_block_qxCjBw",
         "countdown_timer_essential_app_block_JUJHRA",
-        "text_EeaXRf",
+        "text_Y4BdcT",
         "image_c7qWNx",
+        "text_EeaXRf",
         "liquid_zPBFYV",
         "buy-buttons",
         "liquid_GzLHhL"
@@ -1174,6 +1182,13 @@
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
+        "item_ag6pDp": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -1191,6 +1206,7 @@
       },
       "block_order": [
         "166442457738b23caf-0",
+        "item_ag6pDp",
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
