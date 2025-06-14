@@ -863,6 +863,7 @@
       "block_order": [
         "item_zcy6qL"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "stacked",
