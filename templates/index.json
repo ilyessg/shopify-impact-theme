@@ -958,6 +958,12 @@
             "id": ""
           }
         },
+        "text_EeaXRf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "liquid_zPBFYV": {
           "type": "liquid",
           "settings": {
@@ -997,6 +1003,7 @@
         "countdown_timer_essential_app_block_Dh9N7U",
         "countdown_timer_essential_app_block_qxCjBw",
         "countdown_timer_essential_app_block_JUJHRA",
+        "text_EeaXRf",
         "liquid_zPBFYV",
         "buy-buttons",
         "liquid_GzLHhL"
