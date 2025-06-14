@@ -961,7 +961,15 @@
         "text_EeaXRf": {
           "type": "text",
           "settings": {
-            "text": "<p>Share some content to your customers about your products.</p>"
+            "text": "<h4>\"Heute gratis: Peeling-Handschuh\"</h4>"
+          }
+        },
+        "image_c7qWNx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_Avt_1.png",
+            "alignment": "center",
+            "max_width": 150
           }
         },
         "liquid_zPBFYV": {
@@ -1004,6 +1012,7 @@
         "countdown_timer_essential_app_block_qxCjBw",
         "countdown_timer_essential_app_block_JUJHRA",
         "text_EeaXRf",
+        "image_c7qWNx",
         "liquid_zPBFYV",
         "buy-buttons",
         "liquid_GzLHhL"
