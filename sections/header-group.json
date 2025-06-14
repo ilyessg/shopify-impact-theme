@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "DER SOMMER KOMMT! –50 % BEGRENZTER VORRAT",
+            "url": ""
+          }
+        },
+        "message_tWtcEF": {
+          "type": "message",
+          "settings": {
+            "text": "2 JAHRE GARANTIE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_tWtcEF"
       ],
       "settings": {
         "enable_sticky": false,
