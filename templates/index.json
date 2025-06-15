@@ -407,11 +407,41 @@
             "overlay_opacity": 30
           }
         },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/IMG_5953_1.jpg",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection-2": {
           "type": "collection",
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/Copy_of_Avt.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_99GJej": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/IMG_0136_05da5a04-5838-4c2b-bdef-0414090c5749.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -436,42 +466,14 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "collection_99GJej": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
         "collection-1",
+        "collection-3",
         "collection-2",
-        "collection_faNVRz",
         "collection_99GJej",
-        "collection-3"
+        "collection_faNVRz"
       ],
       "settings": {
         "full_width": true,
@@ -1102,6 +1104,92 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_TEwgrW": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_BGnbgW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PPynexbiKZ_1.webp",
+            "icon": "none",
+            "icon_width": 28,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_qnwXLb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Gixs3aDwdJ_1.webp",
+            "icon": "none",
+            "icon_width": 72,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_eAFbrU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/X7mxF6WwWF.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_xRXTAJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dNCd54aFbb.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_DFJh4p": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/App8.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_PVCcQT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/App7.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BGnbgW",
+        "item_qnwXLb",
+        "item_eAFbrU",
+        "item_xRXTAJ",
+        "item_DFJh4p",
+        "item_PVCcQT"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "custom_html_ywpmgM": {
       "type": "custom-html",
       "settings": {
@@ -1314,6 +1402,7 @@
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
+    "images_with_text_scrolling_TEwgrW",
     "custom_html_ywpmgM",
     "feature-chart",
     "faq"
