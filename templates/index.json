@@ -1090,6 +1090,16 @@
     "images_with_text_scrolling_TEwgrW": {
       "type": "images-with-text-scrolling",
       "blocks": {
+        "item_eAFbrU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/480941814_122125892192618452_455143839728998244_n.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
         "item_BGnbgW": {
           "type": "item",
           "settings": {
@@ -1107,16 +1117,6 @@
             "icon": "none",
             "icon_width": 72,
             "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_eAFbrU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/X7mxF6WwWF.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
@@ -1152,9 +1152,9 @@
         }
       },
       "block_order": [
+        "item_eAFbrU",
         "item_BGnbgW",
         "item_qnwXLb",
-        "item_eAFbrU",
         "item_xRXTAJ",
         "item_DFJh4p",
         "item_PVCcQT"
