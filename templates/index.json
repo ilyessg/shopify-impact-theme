@@ -1036,6 +1036,13 @@
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n            flex-wrap: wrap;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 45px;\n            height: auto;\n        }\n\n        /* 👇 Responsive – pour les petits écrans */\n        @media (max-width: 768px) {\n            .unique-payment-options-Abc789 img {\n                width: 30px;\n            }\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
           }
+        },
+        "collapsible_text_DHjY6b": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Entdecken Sie Leyn, den 2-in-1-Rasierer, der Ihre Beauty-Routine verändert.<br/><br/>Mit seinem Doppelkopf-Design vereint er Präzision und Sanftheit für eine perfekte Haut, egal wo Sie sind.<br/><br/>Vergessen Sie schmerzhaftes Wachs, überteuerte Laser und irritierende Einwegklingen - Klyne bietet allen Komfort ohne die üblichen Leiden.<br/><br/>Er ist wasserdicht und kann über USB-C aufgeladen werden, sodass er sowohl auf trockener als auch auf feuchter Haut verwendet werden kann.<br/><br/>Er ist ideal für empfindliche Haut, beseitigt Irritationen, eingewachsene Haare und verhindert Schnittverletzungen.<br/><br/>Verabschieden Sie sich von Einschränkungen und begrüßen Sie eine praktische, schnelle und schmerzfreie Lösung für eine glatte und makellose Haut im Alltag!<br/><br/>Übersetzt mit DeepL.com (kostenlose Version)</p>"
+          }
         }
       },
       "block_order": [
@@ -1058,7 +1065,8 @@
         "text_EeaXRf",
         "liquid_zPBFYV",
         "buy-buttons",
-        "liquid_GzLHhL"
+        "liquid_GzLHhL",
+        "collapsible_text_DHjY6b"
       ],
       "settings": {
         "full_width": false,
