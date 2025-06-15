@@ -811,6 +811,19 @@
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
+        "item_nXntJj": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "horizontal_position": 30,
+            "vertical_position": 30,
+            "horizontal_position_mobile": 30,
+            "vertical_position_mobile": 30,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
         "1664424434f5b7d0e0-0": {
           "type": "item",
           "disabled": true,
@@ -852,6 +865,7 @@
         }
       },
       "block_order": [
+        "item_nXntJj",
         "1664424434f5b7d0e0-0",
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
@@ -878,37 +892,6 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 20,
         "hot_spot_content_blur_radius": 0
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_zcy6qL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/texte_propre.png",
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Image with text",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_zcy6qL"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "top",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "featured-product": {
@@ -1400,7 +1383,6 @@
     "media-grid",
     "press",
     "hot-spots",
-    "multiple-images-with-text",
     "featured-product",
     "images_with_text_scrolling_TEwgrW",
     "custom_html_ywpmgM",
