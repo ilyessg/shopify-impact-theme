@@ -1040,8 +1040,22 @@
         "collapsible_text_DHjY6b": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Entdecken Sie Leyn, den 2-in-1-Rasierer, der Ihre Beauty-Routine verändert.<br/><br/>Mit seinem Doppelkopf-Design vereint er Präzision und Sanftheit für eine perfekte Haut, egal wo Sie sind.<br/><br/>Vergessen Sie schmerzhaftes Wachs, überteuerte Laser und irritierende Einwegklingen - Klyne bietet allen Komfort ohne die üblichen Leiden.<br/><br/>Er ist wasserdicht und kann über USB-C aufgeladen werden, sodass er sowohl auf trockener als auch auf feuchter Haut verwendet werden kann.<br/><br/>Er ist ideal für empfindliche Haut, beseitigt Irritationen, eingewachsene Haare und verhindert Schnittverletzungen.<br/><br/>Verabschieden Sie sich von Einschränkungen und begrüßen Sie eine praktische, schnelle und schmerzfreie Lösung für eine glatte und makellose Haut im Alltag!<br/><br/>Übersetzt mit DeepL.com (kostenlose Version)</p>"
+            "title": "Was enthält das Leyn-Set ?",
+            "content": "<p><strong>Das Leyn-Set</strong> wird mit allem geliefert, was Sie für ein <strong>vollständiges und praktisches Pflegeerlebnis</strong> brauchen:</p><ul><li><strong>Körper-Rasierkopf</strong>: Entwickelt für die <strong>schnelle Haarentfernung</strong> auf größeren Flächen.</li><li><strong>Präzisionskopf</strong>: Ideal für <strong>empfindliche Zonen</strong> und ein <strong>perfektes Finish</strong>.</li></ul><p><strong>Enthaltenes Zubehör</strong>:</p><ul><li><strong>Aufsatzkamm</strong></li><li><strong>Ladekabel</strong></li><li><strong>Reinigungsbürste</strong></li><li><strong>Benutzerhandbuch</strong></li></ul><p>🎁 <strong>+ Ihr GRATIS Peeling-Handschuh!</strong></p><p>Für eine <strong>einfache</strong>, <strong>präzise</strong> Pflege – <strong>perfekt für jede Körperzone</strong>!</p>"
+          }
+        },
+        "collapsible_text_Gj6z6U": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Anwendungshinweise",
+            "content": "<p><strong>1. Peeling vor der Rasur (24 Stunden vorher)</strong><br/>Reiben Sie die Haut mit dem <strong>Peeling-Handschuh</strong> in <strong>kreisenden Bewegungen</strong>, um abgestorbene Hautzellen zu entfernen und eingewachsene Haare zu befreien.<br/>Trocknen Sie die Haut ab oder lassen Sie sie leicht feucht – je nach Ihrem Komfort.</p><p><strong>2. Reihenfolge der Aufsätze</strong></p><ul><li><strong>Langer Kammaufsatz</strong>: Kürzen Sie zuerst längere Haare.</li><li><strong>Rasierkopf</strong>: Vereinheitlichen Sie die Haarlänge auf der gesamten Fläche.</li><li><strong>Präzisionskopf</strong>: Für das Finish – halten Sie dabei die Haut leicht gespannt.</li></ul><p><strong>3. Rasiertechnik</strong><br/>Halten Sie das Gerät in einem <strong>Winkel von ca. 30°</strong> zur Haut.<br/>Üben Sie <strong>leichten Druck</strong> aus und lassen Sie die Klinge ohne Kraftaufwand über die Haut gleiten.<br/>Rasieren Sie <strong>zuerst mit der Haarwuchsrichtung</strong>, dann – falls nötig – <strong>gegen den Strich</strong>, maximal ein- bis zweimal.</p><p><strong>4. Pflege nach der Rasur</strong><br/>Tupfen Sie die Haut <strong>sanft trocken</strong>.<br/>Tragen Sie ein <strong>alkoholfreies beruhigendes Gel oder eine Creme</strong> auf, um Rötungen zu lindern.</p><p><strong>5. Peeling nach der Rasur (48 Stunden später)</strong><br/>Warten Sie mindestens zwei Tage, damit sich die <strong>Hautbarriere regenerieren</strong> kann.<br/>Führen Sie dann ein <strong>sanftes Peeling</strong> durch, um eingewachsenen Haaren vorzubeugen und die Haut <strong>glatt und reizfrei</strong> zu halten.</p>"
+          }
+        },
+        "collapsible_text_LimzF8": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Versand und Rücksendung",
+            "content": "<p>Wir liefern derzeit <strong>innerhalb Deutschlands, Österreichs und Belgiens</strong>.</p><p>Alle Bestellungen werden innerhalb von <strong>24–48 Stunden</strong> aus unserem Lager versendet.<br/>Sobald Ihre Bestellung unterwegs ist, erhalten Sie einen <strong>Sendungsverfolgungslink per E-Mail</strong>.</p><p>Wenn Sie Fragen zum <strong>Versand oder zur Lieferung</strong> haben, zögern Sie nicht, uns zu kontaktieren – <strong>wir helfen Ihnen gerne weiter</strong>!</p>"
           }
         }
       },
@@ -1066,7 +1080,9 @@
         "liquid_zPBFYV",
         "buy-buttons",
         "liquid_GzLHhL",
-        "collapsible_text_DHjY6b"
+        "collapsible_text_DHjY6b",
+        "collapsible_text_Gj6z6U",
+        "collapsible_text_LimzF8"
       ],
       "settings": {
         "full_width": false,
