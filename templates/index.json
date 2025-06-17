@@ -1097,7 +1097,7 @@
             "icon": "picto-validation",
             "icon_width": 48,
             "title": "",
-            "content": "<p><strong>Endlich eine Rasur ohne Hautirritationen. Ich benutze sie jetzt seit 3 Wochen – top!</strong></p>"
+            "content": "<p>Endlich eine Rasur ohne Hautirritationen. Ich benutze sie jetzt seit 3 Wochen – top!</p>"
           }
         },
         "item_BGnbgW": {
@@ -1124,50 +1124,50 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/App8.jpg",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Meine Beine sind noch nie so glatt gewesen! Danke!</p>"
           }
         },
         "item_PVCcQT": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/App7.jpg",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Perfekt für empfindliche Haut. Würde ich jederzeit wieder kaufen.</p>"
           }
         },
         "item_ThWxKd": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/LyKqs451zX.jpg",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Rasiert sauber, ohne dass die Haut danach juckt oder brennt.</p>"
           }
         },
         "item_AqedxC": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Bildschirmfoto_2025-03-07_um_11.13.23_1.png",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Kompakt und leise. Für Reisen super praktisch.</p>"
           }
         },
         "item_H67fRh": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/tjk9Yd9cKI_1.jpg",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Tut, was es soll. Die Klinge ist scharf und die Haut bleibt weich. Ein Punkt Abzug für die Verpackung.</p>"
           }
         },
         "item_wXjFyR": {
@@ -1177,7 +1177,7 @@
             "icon": "picto-validation",
             "icon_width": 48,
             "title": "",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Design ist schön, wirkt hochwertig. Nur das Aufladen dauert etwas.</p>"
           }
         },
         "item_xRXTAJ": {
@@ -1194,10 +1194,20 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/JZf4jsAZGC.webp",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
             "title": "",
-            "content": ""
+            "content": "<p>Schon zweimal benutzt – sehr angenehm und kein Ziepen. Empfehlenswert.</p>"
+          }
+        },
+        "item_p9carD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/fmlY5PcAi.jpg",
+            "icon": "picto-validation",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Ich liebe sie! Besonders für empfindliche Haut geeignet. ✨</p>"
           }
         }
       },
@@ -1212,7 +1222,8 @@
         "item_H67fRh",
         "item_wXjFyR",
         "item_xRXTAJ",
-        "item_pUViAe"
+        "item_pUViAe",
+        "item_p9carD"
       ],
       "name": "Images and text scrolling",
       "settings": {
