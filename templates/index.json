@@ -1094,40 +1094,30 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/480941814_122125892192618452_455143839728998244_n.jpg",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p><strong>Endlich eine Rasur ohne Hautirritationen. Ich benutze sie jetzt seit 3 Wochen – top!</strong></p>"
           }
         },
         "item_BGnbgW": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/PPynexbiKZ_1.webp",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 28,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Mega! Viel besser als erwartet. Glatte Haut in wenigen Minuten.</p>"
           }
         },
         "item_qnwXLb": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Gixs3aDwdJ_1.webp",
-            "icon": "none",
+            "icon": "picto-validation",
             "icon_width": 72,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_xRXTAJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/dNCd54aFbb.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<p>Hält, was sie verspricht. Rasur geht schnell und ohne Ziepen. Empfehlenswert.</p>"
           }
         },
         "item_DFJh4p": {
@@ -1149,15 +1139,80 @@
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
+        },
+        "item_ThWxKd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/LyKqs451zX.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_AqedxC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Bildschirmfoto_2025-03-07_um_11.13.23_1.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_H67fRh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/tjk9Yd9cKI_1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_wXjFyR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/wkTpU1luv.jpg",
+            "icon": "picto-validation",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_xRXTAJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dNCd54aFbb.webp",
+            "icon": "picto-validation",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Meine Beine sind noch nie so glatt gewesen! Danke ShinyShave!</p>"
+          }
+        },
+        "item_pUViAe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/JZf4jsAZGC.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": ""
+          }
         }
       },
       "block_order": [
         "item_eAFbrU",
         "item_BGnbgW",
         "item_qnwXLb",
-        "item_xRXTAJ",
         "item_DFJh4p",
-        "item_PVCcQT"
+        "item_PVCcQT",
+        "item_ThWxKd",
+        "item_AqedxC",
+        "item_H67fRh",
+        "item_wXjFyR",
+        "item_xRXTAJ",
+        "item_pUViAe"
       ],
       "name": "Images and text scrolling",
       "settings": {
