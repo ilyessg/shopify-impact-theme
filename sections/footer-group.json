@@ -91,9 +91,9 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "image_width": 90,
+            "heading_size": "h4",
+            "title": "Verpassen Sie keine Angebote mehr – jetzt Newsletter abonnieren",
             "content": ""
           }
         },
@@ -107,8 +107,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Kontaktieren Sie uns",
+            "content": "<p>Unser Kundenservice steht Ihnen zur Verfügung von:</p><p><br/></p><p>**Montag bis Samstag, 09:00 bis 18:00 Uhr**</p><p><br/></p><p>📩 Sie können uns jederzeit per E-Mail erreichen unter:</p><p>kontakt@leyncare.com</p><p><br/></p><p>Wir antworten in der Regel innerhalb von 24 St</p>",
             "enable_follow_on_shop": true
           }
         }
