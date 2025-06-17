@@ -1005,6 +1005,12 @@
             "liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cmbvgde6q0031ee5klqd9urcm\"></div>"
           }
         },
+        "countdown_timer_essential_app_block_KhHKRx": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -1063,6 +1069,7 @@
         "image_c7qWNx",
         "text_EeaXRf",
         "liquid_zPBFYV",
+        "countdown_timer_essential_app_block_KhHKRx",
         "buy-buttons",
         "liquid_GzLHhL",
         "collapsible_text_DHjY6b",
