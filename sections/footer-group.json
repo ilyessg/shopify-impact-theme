@@ -88,13 +88,12 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
+        "text": {
+          "type": "text",
           "settings": {
-            "image_width": 70,
-            "heading_size": "h4",
-            "title": "Verpassen Sie keine Angebote mehr – jetzt Newsletter abonnieren",
-            "content": ""
+            "title": "Kontaktieren Sie uns",
+            "content": "<p>Unser Kundenservice steht Ihnen zur Verfügung von:</p><p>Montag bis Samstag, 09:00 bis 18:00 Uhr.</p><p><br/>📩 Sie können uns jederzeit per E-Mail erreichen unter:</p><p>kontakt@leyncare.com</p><p><br/></p><p>Wir antworten in der Regel innerhalb von 24 St</p>",
+            "enable_follow_on_shop": true
           }
         },
         "links": {
@@ -103,20 +102,11 @@
             "menu": "footer",
             "show_menu_title": true
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "Kontaktieren Sie uns",
-            "content": "<p>Unser Kundenservice steht Ihnen zur Verfügung von:</p><p><br/></p><p>**Montag bis Samstag, 09:00 bis 18:00 Uhr**</p><p><br/></p><p>📩 Sie können uns jederzeit per E-Mail erreichen unter:</p><p>kontakt@leyncare.com</p><p><br/></p><p>Wir antworten in der Regel innerhalb von 24 St</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
-        "newsletter",
-        "links",
-        "text"
+        "text",
+        "links"
       ],
       "settings": {
         "show_social_media": true,
