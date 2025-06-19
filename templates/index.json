@@ -1522,29 +1522,36 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Ist Leyn für empfindliche Haut geeignet?",
+            "content": "<p>Ja, Leyn wurde speziell dafür entwickelt, besonders sanft zur Haut zu sein – selbst an empfindlichen Stellen wie der Bikinizone oder den Achseln. Dank des 2-in-1-Kopfes (Trimmer + Rasierer) erlebst du eine Haarentfernung ganz ohne Hautreizungen oder Rötungen.</p>"
           }
         },
         "item_ag6pDp": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Ist die Anwendung schmerzhaft?",
+            "content": "<p>Überhaupt nicht. Leyn wurde so entwickelt, dass die Haare sanft entfernt werden – ganz ohne Ziepen oder Kratzen. Du genießt ein angenehmes Gefühl und erhältst gleichzeitig glatte Haut – ganz ohne Schnitte.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Ist Leyn für alle Körperbereiche geeignet?",
+            "content": "<p>Ja, Leyn ist vielseitig einsetzbar und eignet sich für Beine, Achseln, die Bikinizone und sogar das Gesicht.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Wie lange dauert es, Leyn vollständig aufzuladen?",
+            "content": "<p>Eine vollständige Aufladung dauert etwa 30 bis 45 Minuten – dank der Schnellladetechnologie.</p><p></p>"
+          }
+        },
+        "item_zTEpCM": {
+          "type": "item",
+          "settings": {
+            "title": "Was kann ich tun, wenn ich nicht zufrieden bin?",
+            "content": "<p></p><p>Wir bieten eine 30-tägige „Zufrieden-oder-Geld-zurück“-Garantie. Wenn das Produkt nicht deinen Erwartungen entspricht, kontaktiere einfach unseren Kundenservice unter : <a>kontakt@leyncare.com</a></p>"
           }
         }
       },
@@ -1552,13 +1559,14 @@
         "166442457738b23caf-0",
         "item_ag6pDp",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_zTEpCM"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Unser Kundenservice steht Ihnen zur Verfügung von: Montag bis Samstag, 09:00 bis 18:00 Uhr",
         "answer_time": "Wir antworten in der Regel innerhalb von 24 St",
