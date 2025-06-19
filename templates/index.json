@@ -1540,6 +1540,13 @@
             "content": "<p>Ja, Leyn ist vielseitig einsetzbar und eignet sich für Beine, Achseln, die Bikinizone und sogar das Gesicht.</p>"
           }
         },
+        "item_9PrAUE": {
+          "type": "item",
+          "settings": {
+            "title": "Wie reinige ich Leyn nach jeder Anwendung?",
+            "content": "<p>Nach jeder Anwendung kannst du die Aufsätze unter Wasser abspülen. Für eine präzisere Reinigung liegt eine kleine Bürste bei.</p>"
+          }
+        },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
@@ -1559,6 +1566,7 @@
         "166442457738b23caf-0",
         "item_ag6pDp",
         "166442457738b23caf-1",
+        "item_9PrAUE",
         "166442457738b23caf-2",
         "item_zTEpCM"
       ],
