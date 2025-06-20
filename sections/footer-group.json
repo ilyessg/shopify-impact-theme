@@ -21,7 +21,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#e9bddc",
+            "icon_background": "#fec6c5",
             "icon_color": "#1a1a1a",
             "title": "Kostenloser Versand",
             "content": "<p>Lieferung in ganz Deutschland, Österreich und Belgien.</p>"
@@ -34,7 +34,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#e9bddc",
+            "icon_background": "#fec6c5",
             "icon_color": "",
             "title": "Kundenservice 7 Tage die Woche",
             "content": "<p>Bei Fragen oder Anliegen kontaktieren Sie uns gerne über unser Kontaktformular oder per E-Mail an <a><strong>kontakt@leyncare.com</strong></a></p>"
@@ -47,7 +47,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#e9bddc",
+            "icon_background": "#fec6c5",
             "icon_color": "",
             "title": "30 Tage Geld-zurück-Garantie",
             "content": "<p>Zufrieden oder Geld zurück</p>"
@@ -60,7 +60,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#e9bddc",
+            "icon_background": "#fec6c5",
             "icon_color": "",
             "title": "Sichere Zahlungen",
             "content": "<p>Bezahlen Sie sicher mit Kreditkarte oder PayPal.</p>"

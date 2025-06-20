@@ -179,7 +179,7 @@
         "image_background": "",
         "image_background_gradient": "",
         "overlay_color": "#000000",
-        "overlay_opacity": 20,
+        "overlay_opacity": 13,
         "overlay_text_color": "#ffffff",
         "overlay_button_background": "",
         "overlay_button_text_color": "",
@@ -187,7 +187,7 @@
         "hot_spot_dot_text_color": "#000000",
         "hot_spot_content_background": "#ffffff",
         "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 100,
+        "hot_spot_content_opacity": 81,
         "hot_spot_content_blur_radius": 2
       }
     },
@@ -1561,7 +1561,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#e9bddc",
+        "accordion_background": "#fec6c5",
         "accordion_text_color": ""
       }
     }
