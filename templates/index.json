@@ -363,6 +363,69 @@
         "overlay_opacity": 0
       }
     },
+    "media_grid_VeaMLL": {
+      "type": "media-grid",
+      "blocks": {
+        "image_ePdBMm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.gif",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_r7fC9w": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5_13_2_1_137bc23e-2b99-4b58-80d3-63af47350640.gif",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ePdBMm",
+        "image_r7fC9w"
+      ],
+      "disabled": true,
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": true,
+        "desktop_row_height": 400,
+        "mobile_row_height": 140,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -1513,6 +1576,7 @@
     "impact-text",
     "custom_liquid_Yemmwc",
     "image-with-text-overlay",
+    "media_grid_VeaMLL",
     "featured-collection",
     "collection-list",
     "rich_text_xtFTAb",
