@@ -1211,16 +1211,6 @@
     "images_with_text_scrolling_TEwgrW": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "item_eAFbrU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/480941814_122125892192618452_455143839728998244_n.jpg",
-            "icon": "picto-validation",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p>Endlich eine Rasur ohne Hautirritationen. Ich benutze sie jetzt seit 3 Wochen – top!</p>"
-          }
-        },
         "item_BGnbgW": {
           "type": "item",
           "settings": {
@@ -1229,6 +1219,26 @@
             "icon_width": 28,
             "title": "",
             "content": "<p>Mega! Viel besser als erwartet. Glatte Haut in wenigen Minuten.</p>"
+          }
+        },
+        "item_H67fRh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/tjk9Yd9cKI_1.jpg",
+            "icon": "picto-validation",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Tut, was es soll. Die Klinge ist scharf und die Haut bleibt weich. Ein Punkt Abzug für die Verpackung.</p>"
+          }
+        },
+        "item_eAFbrU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/480941814_122125892192618452_455143839728998244_n.jpg",
+            "icon": "picto-validation",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>Endlich eine Rasur ohne Hautirritationen. Ich benutze sie jetzt seit 3 Wochen – top!</p>"
           }
         },
         "item_qnwXLb": {
@@ -1281,16 +1291,6 @@
             "content": "<p>Kompakt und leise. Für Reisen super praktisch.</p>"
           }
         },
-        "item_H67fRh": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/tjk9Yd9cKI_1.jpg",
-            "icon": "picto-validation",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p>Tut, was es soll. Die Klinge ist scharf und die Haut bleibt weich. Ein Punkt Abzug für die Verpackung.</p>"
-          }
-        },
         "item_wXjFyR": {
           "type": "item",
           "settings": {
@@ -1333,14 +1333,14 @@
         }
       },
       "block_order": [
-        "item_eAFbrU",
         "item_BGnbgW",
+        "item_H67fRh",
+        "item_eAFbrU",
         "item_qnwXLb",
         "item_DFJh4p",
         "item_PVCcQT",
         "item_ThWxKd",
         "item_AqedxC",
-        "item_H67fRh",
         "item_wXjFyR",
         "item_xRXTAJ",
         "item_pUViAe",
